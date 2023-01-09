@@ -1,5 +1,6 @@
 {
+    "filemanager-openonstart": true,
+    "indentchar": ".",
     "mkparents": true,
-    "scrollbar": true,
-    "filemanager-openonstart": true
+    "scrollbar": true
 }
