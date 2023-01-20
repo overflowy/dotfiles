@@ -6,6 +6,7 @@ Remove-Item alias:curl
 # Aliases
 Set-Alias -Name sed -Value sd
 Set-Alias -Name sudo -Value gsudo
+Set-Alias -Name tail -Value ov
 
 function cc ([string]$command){
 	if ($arg1) {
